@@ -1,1 +1,2 @@
+images_data filter=lfs diff=lfs merge=lfs -text
 colored_images/*.tif filter=lfs diff=lfs merge=lfs -text
